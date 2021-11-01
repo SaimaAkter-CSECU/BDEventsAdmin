@@ -116,7 +116,7 @@
                             {
                                 id: 3, 
                                 title: 'All Pending Events', 
-                                path: 'Dashboard/Pending-Events', 
+                                path: '/Dashboard/Events/All-Pending-Events', 
                             },
                             {
                                 id: 4, 

@@ -3,7 +3,7 @@
         <Header />
         <v-main>
             <v-container>
-                <BlogDetail />
+                <EventDetail />
             </v-container>
         </v-main>
         <Footer />

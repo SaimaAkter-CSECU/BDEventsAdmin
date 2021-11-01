@@ -399,7 +399,7 @@
     }
 
     export default {
-        name: 'SpeakerDetail', 
+        name: 'BlogDetail', 
         data:()=>({
             viewMode: true,
             blog:[
